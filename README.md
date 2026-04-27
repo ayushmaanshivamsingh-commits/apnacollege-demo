@@ -1,3 +1,4 @@
 # apnacollege-demo
-Thi is my first git repo
+Thi is my first git repo.
+<br>
 Author - Babu Singh
